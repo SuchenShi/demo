@@ -12,8 +12,16 @@
     "name": "typicode"
   },
 
-  "Stocks": {
-    "name": "test"
-  }
+  "stocks": [
+    {"name": "AAA - 0029", "id": "0029", "cash": 39160334.42, "change": {"percentage": -0.07, "value": 31435.87}},
+    {"name": "IRA - 0146", "id": "0146", "cash": 15884302.39, "change": {"percentage": 0.03, "value": 7430.83}},
+    {"name": "AAA - 1812", "id": "1812", "cash": 2010926.10, "change": {"percentage": 0.21, "value": 38881.63}},
+    {"name": "REG - 2019", "id": "2019", "cash": 13465679.34, "change": {"percentage": 0, "value": 0}},
+    {"name": "AAA - 3810", "id": "3810", "cash": 10050054.07, "change": {"percentage": 0.07, "value": 8916.69}},
+    {"name": "IRA - 5200", "id": "5200", "cash": 5763.36, "change": {"percentage": -0.08, "value": 8916.69}}
+  ]
 
 }
+
+
+
